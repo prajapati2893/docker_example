@@ -1,0 +1,6 @@
+[submodule "minimal-backend"]
+	path = minimal-backend
+	url = https://github.com/prajapati2893/minimal-backend.git
+[submodule "minimal-frontend"]
+	path = minimal-frontend
+	url = https://github.com/prajapati2893/minimal-frontend.git
